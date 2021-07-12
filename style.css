@@ -3,19 +3,30 @@
     padding: 0%;
 }
 .offer{
-    padding: 10px;
+    padding: 12px;
     text-align: center;
     background-color:#ffd9d2;
+    position: fixed;
+    width: 100%;
 }
 .header{
     margin: 25px 18% ;
 }
-.top-bar{
-    display: flex;  
+.top-nav{
+    display: flex;
 }
-
 .search{
     border: none;
     align-items: center;
+    padding: 10px;
+}
+
+
+.nav-bar{
+    margin-left: 10px;
+    display: flex;
+    
+    
+    
 }
 
